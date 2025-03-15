@@ -13,5 +13,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-<h2>  &nbsp;Some Stats of my Profile</h2>
+<h2> 📈 &nbsp;Some Stats of my Profile</h2>
 <a href="https://github.com/refedico/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=refedico&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/refedico/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refedico&layout=compact&theme=buefy&hide_border=true" /></a>
