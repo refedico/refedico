@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on *LLMs*
 - 🌱 I’m currently learning *Genetic Programming*
 - 💬 Ask me anything you want
-- 📫 How to reach me:   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/federico-putamorsi-b02434179)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/federico-putamorsi-b02434179)
+
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
